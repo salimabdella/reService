@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 #   File_name: reService.py
-#   Writen_by: salim aka BLaCK_Assassin
+#   Writen_by: salim
 #   
 #   Date: Sat 11/28/2015
 #
