@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 #   File_name: reService.py
-#   Writen_by: salim
+#   By: salim
 #   
 #   Date: Sat 11/28/2015
 #
@@ -94,5 +94,5 @@ def main():
 if __name__ == "__main__":
     # executing main function
     main()
-    os.system("echo \033[32mCreated_By:- \033[31mBLaCK_Assassin")
+    os.system("echo \033[32mCreated_By:- \033[31msalim")
         
